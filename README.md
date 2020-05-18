@@ -1,0 +1,2 @@
+# recommend
+Django Recommendation App
